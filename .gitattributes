@@ -1,0 +1,3 @@
+# Store every file byte for byte. Line-ending conversion would change the
+# bytes of preserved originals, records and releases, and break their hashes.
+* -text
