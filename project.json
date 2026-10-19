@@ -1,0 +1,11 @@
+{
+  "name": "Replace with your project name",
+  "owner": "Replace with the person whose decisions count",
+  "zero_weight_classes": [
+    "ai_generated",
+    "summary",
+    "narrative",
+    "unverified_note"
+  ],
+  "predicates": []
+}
